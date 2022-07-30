@@ -120,6 +120,11 @@
   width: 240px;
 }
 
+.social-icons a {
+  font-size: 30px;
+  color: whitesmoke;
+}
+
 .social-logo {
   color: #fff;
   justify-self: start;

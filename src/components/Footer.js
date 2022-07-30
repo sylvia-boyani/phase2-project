@@ -64,52 +64,43 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              TRVL
+              Sly Advs
               <i class='fab fa-typo3' />
             </Link>
           </div>
           <small class='website-rights'>TRVL © 2020</small>
           <div class='social-icons'>
-            <Link
-              class='social-icon-link facebook'
-              to='/'
+          <a
+              href="https://www.linkedin.com/in/sylvia-boyani-7130a6196?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqX9lOZrLQA6J%2FMEbsJqyfA%3D%3D"
               target='_blank'
-              aria-label='Facebook'
+              rel="noopener noreferrer"
             >
-              <i class='fab fa-facebook-f' />
-            </Link>
-            <Link
-              class='social-icon-link instagram'
-              to='/'
-              target='_blank'
-              aria-label='Instagram'
+              <i className="fa fa-linkedin-square"></i>
+            </a>
+
+            <a
+              href="https://www.instagram.com/boyani_sylvia/"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              <i class='fab fa-instagram' />
-            </Link>
-            <Link
-              class='social-icon-link youtube'
-              to='/'
-              target='_blank'
-              aria-label='Youtube'
+              <i className="fa fa-instagram"></i>
+            </a>
+
+            <a
+              href="https://twitter.com/BoyaniSylvia"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              <i class='fab fa-youtube' />
-            </Link>
-            <Link
-              class='social-icon-link twitter'
-              to='/'
-              target='_blank'
-              aria-label='Twitter'
-            >
-              <i class='fab fa-twitter' />
-            </Link>
-            <Link
-              class='social-icon-link twitter'
-              to='/'
-              target='_blank'
-              aria-label='LinkedIn'
-            >
-              <i class='fab fa-linkedin' />
-            </Link>
+              <i className="fa fa-twitter"></i>
+            </a>
+
+            <a
+          href="https://github.com/sylvia-boyani" 
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fa fa-github-square"></i>
+        </a>          
           </div>
         </div>
       </section>
