@@ -53,10 +53,18 @@ function Footer() {
           </div>
           <div class='footer-link-items'>
             <h2>Social Media</h2>
-            <Link to='/'>Instagram</Link>
-            <Link to='/'>Facebook</Link>
-            <Link to='/'>Youtube</Link>
-            <Link to='/'>Twitter</Link>
+            <a href='https://www.linkedin.com/in/sylvia-boyani-7130a6196?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqX9lOZrLQA6J%2FMEbsJqyfA%3D%3D' target="_blank" real="noopener noreferrer">
+              linkedIn</a>
+
+              <a href='https://github.com/sylvia-boyani' target="_blank" real="noopener noreferrer">
+              GitHub</a>
+
+              <a href='https://www.instagram.com/boyani_sylvia/' target="_blank" real="noopener noreferrer">
+              Instagram</a>
+
+              <a href='https://twitter.com/BoyaniSylvia' target="_blank" real="noopener noreferrer">
+              Twitter</a>
+            
           </div>
         </div>
       </div>
