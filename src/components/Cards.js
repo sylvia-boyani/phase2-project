@@ -89,6 +89,7 @@ function Cards() {
         </div>
       </div>
       <div className='services' id='services'>
+      <video src='/videos/videoS.mp4' autoPlay loop muted />
         <h1>SERVICES</h1>
       <p className='footer-subscription-text'>
           <h4>- Free Food. I'll cater for food through the whole trip.</h4>
