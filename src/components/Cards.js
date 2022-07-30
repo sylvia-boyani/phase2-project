@@ -1,11 +1,12 @@
 import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
+import { Button } from "./Button";
 
 function Cards() {
   return (
     <div className='cards'>
-      <h1>Check Out Our EPIC Destinations!</h1>
+      <h1>Check Out My EPIC Destinations!</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
@@ -86,6 +87,31 @@ function Cards() {
             
           </ul>
         </div>
+      </div>
+
+      <div className='contact'>
+        <h1>CONTACT ME</h1>
+      <p className='footer-subscription-text'>
+          You can write me an email any time.
+        </p>
+        <div className='input-areas'>
+          <form>
+            <input
+              className='footer-input'
+              name='email'
+              type='email'
+              placeholder='Your Email'
+            />
+             <input
+              className='footer-input'
+              name='name'
+              type='text'
+              placeholder='Your Name Please?'
+            />
+            <Button buttonStyle='btn--outline'>Submit</Button>
+          </form>
+        </div>
+
       </div>
     </div>
   );

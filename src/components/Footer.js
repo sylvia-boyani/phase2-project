@@ -54,16 +54,16 @@ function Footer() {
           </div>
           <div class='footer-link-items'>
             <h2>Social Media</h2>
-            <a href='https://www.linkedin.com/in/sylvia-boyani-7130a6196?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqX9lOZrLQA6J%2FMEbsJqyfA%3D%3D' target="_blank" real="noopener noreferrer">
+            <a href='https://www.linkedin.com/in/sylvia-boyani-7130a6196?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqX9lOZrLQA6J%2FMEbsJqyfA%3D%3D' target="_blank" rel="noopener noreferrer">
               linkedIn</a>
 
-              <a href='https://github.com/sylvia-boyani' target="_blank" real="noopener noreferrer">
+              <a href='https://github.com/sylvia-boyani' target="_blank" rel="noopener noreferrer">
               GitHub</a>
 
-              <a href='https://www.instagram.com/boyani_sylvia/' target="_blank" real="noopener noreferrer">
+              <a href='https://www.instagram.com/boyani_sylvia/' target="_blank" rel="noopener noreferrer">
               Instagram</a>
 
-              <a href='https://twitter.com/BoyaniSylvia' target="_blank" real="noopener noreferrer">
+              <a href='https://twitter.com/BoyaniSylvia' target="_blank" rel="noopener noreferrer">
               Twitter</a>
             
           </div>
@@ -77,7 +77,7 @@ function Footer() {
               <i class='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'>TRVL © 2020</small>
+          <small class='website-rights'>sly's © 2020</small>
           <div class='social-icons'>
           <a
               href="https://www.linkedin.com/in/sylvia-boyani-7130a6196?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqX9lOZrLQA6J%2FMEbsJqyfA%3D%3D"
