@@ -17,7 +17,7 @@
   }
   
   .services {
-    background-image: url('/public/images/cinque-terre-4093227.jpg');
+    background-image: url('/public/images/back1.jpeg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -26,7 +26,7 @@
   }
   
   .products {
-    background-image: url('/public/images/');
+    background-image: url('/public/images/back2.jpeg');
     background-position: center;
     background-size: fill;
     background-repeat: no-repeat;
@@ -35,7 +35,7 @@
   }
   
   .sign-up {
-    background-image: url('/images/img-8.jpg');
+    background-image: url('/public/images/back3jpeg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
