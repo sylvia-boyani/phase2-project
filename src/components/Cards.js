@@ -5,42 +5,85 @@ import CardItem from './CardItem';
 function Cards() {
   return (
     <div className='cards'>
-      <h1>Check out these EPIC Destinations!</h1>
+      <h1>Check Out Our EPIC Destinations!</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-9.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
+              src='images/madaascar2.jpg'
+              text='Explore Madagascar with its beautiful baobab trees'
               label='Adventure'
               path='/services'
             />
             <CardItem
-              src='images/img-2.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
+              src='images/madapeople.jpg'
+              text='Travel through the Roads of Magagascar and explore it culture and people'
+              label='Culture'
               path='/services'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-3.jpg'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
+              src='images/seychells1.jpeg'
+              text='Enjoy in-house comforts with indoors heated swimming pool🏊🏼‍♀️🏊🏼‍♀️'
+              label='Relation'
               path='/services'
             />
             <CardItem
-              src='images/img-4.jpg'
-              text='Experience Football on Top of the Himilayan Mountains'
+              src='images/seychels2.jpg'
+              text='Walk on its sandy clean beaches of Seychells and experience its beautiful sunset🌄'
               label='Adventure'
               path='/products'
             />
             <CardItem
-              src='images/img-8.jpg'
-              text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
+              src='images/sychells3.jpeg'
+              text='Experience Luxury and comfort like no other🍴'
+              label='Luxery'
               path='/sign-up'
             />
+
+            
+          </ul>
+        </div>
+      </div>
+
+      <div className='cards__container2'>
+        <div className='cards__wrapper'>
+          <ul className='cards__items'>
+            <CardItem
+              src='images/italy2.jpeg'
+              text='Let us go to Italy 🤩'
+              label='Adventure'
+              path='/services'
+            />
+            <CardItem
+              src='images/Itlay4.jpg'
+              text='Travel through the Streets of Italy🛣️'
+              label='Culture'
+              path='/services'
+            />
+          </ul>
+          <ul className='cards__items'>
+            <CardItem
+              src='images/japan1.jpg'
+              text='Japan here we come!!🥳🥳'
+              label='Relation'
+              path='/services'
+            />
+            <CardItem
+              src='images/japan2.jpg'
+              text='Visit the most beautiful places of japan🥰🥰🥰'
+              label='Adventure'
+              path='/products'
+            />
+            <CardItem
+              src='images/japan3.jpg'
+              text='Experience the nature and japans beautiful trees'
+              label='Luxery'
+              path='/sign-up'
+            />
+
+            
           </ul>
         </div>
       </div>
