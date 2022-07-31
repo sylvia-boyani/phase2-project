@@ -4,9 +4,9 @@ import '../../App.css';
 export default function Services() {
   return <h1 className='services'>
      <video src='/videos/videoS.mp4' autoPlay loop muted />
-    SERVICES
+    {/* SERVICES */}
     <h1>SERVICES</h1>
-    <div>
+    <div className='services' id='services'>
       <p className='footer-subscription-text'>
           <h4>- Free Food. I'll cater for food through the whole trip.</h4>
           <h4>- Taste any foreign Cuisines of interest!</h4>

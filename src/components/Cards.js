@@ -14,13 +14,19 @@ function Cards() {
               src='images/madaascar2.jpg'
               text='Explore Madagascar with its beautiful baobab trees'
               label='Adventure'
-              path='/services'
+              path='/'
             />
             <CardItem
               src='images/madapeople.jpg'
               text='Travel through the Roads of Magagascar and explore it culture and people'
               label='Culture'
-              path='/services'
+              path='/'
+            />
+            <CardItem
+              src='images/lemus.jpeg'
+              text='The Adventure is not over  until we see some Lemus'
+              label='Wildlife'
+              path='/'
             />
           </ul>
           <ul className='cards__items'>
@@ -28,19 +34,19 @@ function Cards() {
               src='images/seychells1.jpeg'
               text='Enjoy in-house comforts with indoors heated swimming pool🏊🏼‍♀️🏊🏼‍♀️'
               label='Relation'
-              path='/services'
+              path='/'
             />
             <CardItem
               src='images/seychels2.jpg'
               text='Walk on its sandy clean beaches of Seychells and experience its beautiful sunset🌄'
               label='Adventure'
-              path='/products'
+              path='/'
             />
             <CardItem
               src='images/sychells3.jpeg'
               text='Experience Luxury and comfort like no other🍴'
               label='Luxery'
-              path='/sign-up'
+              path='/'
             />
 
             
@@ -55,13 +61,20 @@ function Cards() {
               src='images/italy2.jpeg'
               text='Let us go to Italy 🤩'
               label='Adventure'
-              path='/services'
+              path='/'
             />
             <CardItem
               src='images/Itlay4.jpg'
               text='Travel through the Streets of Italy🛣️'
               label='Culture'
-              path='/services'
+              path='/'
+            />
+
+<CardItem
+              src='images/italy7.jpg'
+              text='View the Colosseum in Rome in the Morning'
+              label='History'
+              path='/'
             />
           </ul>
           <ul className='cards__items'>
@@ -69,31 +82,29 @@ function Cards() {
               src='images/japan1.jpg'
               text='Japan here we come!!🥳🥳'
               label='Relation'
-              path='/services'
+              path='/'
             />
             <CardItem
               src='images/japan2.jpg'
               text='Visit the most beautiful places of japan🥰🥰🥰'
               label='Adventure'
-              path='/products'
+              path='/'
             />
             <CardItem
               src='images/japan3.jpg'
               text='Experience the nature and japans beautiful trees'
               label='Luxery'
-              path='/sign-up'
+              path='/'
             />            
           </ul>
         </div>
       </div>
-      <div className='services' id='services'>
-      <video src='/videos/videoS.mp4' autoPlay loop muted />
+      
       <div className='contact' id='contact'>
         <h1>CONTACT ME</h1>
-      <p className='footer-subscription-text'>
-          You can write me an email any time.
-        </p>
-        </div>
+          <p className='footer-subscription-text'>
+              You can write me an email any time.
+          </p>        
         <div className='input-areas'>
           <form>
             <input
@@ -111,9 +122,8 @@ function Cards() {
             <Button buttonStyle='btn--outline'>Submit</Button>
           </form>
         </div>
-
-      </div>
-    </div>
+       </div>
+      </div>      
   );
 }
 
