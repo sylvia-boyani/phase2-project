@@ -11,19 +11,19 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src={'images/madaascar2.jpg'}
+              src={'./images/madaascar2.jpg'}
               text='Explore Madagascar with its beautiful baobab trees'
               label='Adventure'
               path='/'
             />
             <CardItem
-              src={'images/madapeople.jpg'}
+              src={'./images/madapeople.jpg'}
               text='Travel through the Roads of Magagascar and explore it culture and people'
               label='Culture'
               path='/'
             />
             <CardItem
-              src={'images/lemus.jpeg'}
+              src={'./images/lemus.jpeg'}
               text='The Adventure is not over  until we see some Lemus'
               label='Wildlife'
               path='/'
@@ -31,19 +31,19 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src={'images/seychells1.jpeg'}
+              src={'./images/seychells1.jpeg'}
               text='Enjoy in-house comforts with indoors heated swimming pool🏊🏼‍♀️🏊🏼‍♀️'
               label='Relation'
               path='/'
             />
             <CardItem
-              src={'images/seychels2.jpg'}
+              src={'./images/seychels2.jpg'}
               text='Walk on its sandy clean beaches of Seychells and experience its beautiful sunset🌄'
               label='Adventure'
               path='/'
             />
             <CardItem
-              src={'images/sychells3.jpeg'}
+              src={'./images/sychells3.jpeg'}
               text='Experience Luxury and comfort like no other🍴'
               label='Luxery'
               path='/'
@@ -58,20 +58,20 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src={'images/italy2.jpeg'}
+              src={'./images/italy2.jpeg'}
               text='Let us go to Italy 🤩'
               label='Adventure'
               path='/'
             />
             <CardItem
-              src={'images/Itlay4.jpg'}
+              src={'./images/Itlay4.jpg'}
               text='Travel through the Streets of Italy🛣️'
               label='Culture'
               path='/'
             />
 
             <CardItem
-              src={'images/italy7.jpg'}
+              src={'./images/italy7.jpg'}
               text='View the Colosseum in Rome in the Morning'
               label='History'
               path='/'
@@ -79,19 +79,19 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src={'images/japan1.jpg'}
+              src={'./images/japan1.jpg'}
               text='Japan here we come!!🥳🥳'
               label='Relation'
               path='/'
             />
             <CardItem
-              src={'images/japan2.jpg'}
+              src={'./images/japan2.jpg'}
               text='Visit the most beautiful places of japan🥰🥰🥰'
               label='Adventure'
               path='/'
             />
             <CardItem
-              src={'images/japan3.jpg'}
+              src={'./images/japan3.jpg'}
               text='Experience the nature and japans beautiful trees'
               label='Luxery'
               path='/'

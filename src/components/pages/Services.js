@@ -3,7 +3,7 @@ import '../../App.css';
 
 export default function Services() {
   return <h1 className='services'>
-     <video src={'/videos/videoS.mp4' }autoPlay loop muted />
+     <video src={'./videos/videoS.mp4' }autoPlay loop muted />
     {/* SERVICES */}
     <h1>SERVICES</h1>
     <div className='services' id='services'>
