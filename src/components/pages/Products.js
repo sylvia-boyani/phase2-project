@@ -4,6 +4,7 @@ import { Button } from '../Button';
 
 export default function Products() {
   return <h1 className='products'>
+     <video src={'/videos/Jump.mp4' }autoPlay loop muted />
   <div className='contact' id='contact'>
         <h1>CONTACT ME</h1>
           <p className='footer-subscription-text'>

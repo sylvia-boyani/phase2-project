@@ -7,7 +7,7 @@ function Footer() {
   return (
     <div className='footer-container'>
       <section className='footer-subscription'>
-      <video src='/videos/vd.mp4' autoPlay loop muted />
+      <video src={'/videos/vd.mp4'} autoPlay loop muted />
         <p className='footer-subscription-heading'>
           Join the Adventure newsletter to receive our best vacation deals
         </p>
