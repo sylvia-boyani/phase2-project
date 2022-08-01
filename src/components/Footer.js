@@ -29,7 +29,7 @@ function Footer() {
       <div class='footer-links'>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
-            <h2>About Us</h2>
+            <h2>About Me</h2>
             <Link to='/sign-up'>How it works</Link>
             <Link to='/'>Testimonials</Link>
             <Link to='/'>Careers</Link>
@@ -37,7 +37,7 @@ function Footer() {
             <Link to='/'>Terms of Service</Link>
           </div>
           <div class='footer-link-items'>
-            <h2>Contact Us</h2>
+            <h2>Contact Me</h2>
             <Link to='/'>Contact</Link>
             <Link to='/'>Support</Link>
             <Link to='/'>Destinations</Link>
