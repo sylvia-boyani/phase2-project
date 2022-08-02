@@ -18,13 +18,13 @@ function Cards() {
             />
             <CardItem
               src={'./images/madapeople.jpg'}
-              text='Travel through the Roads of Magagascar and explore it culture and people'
+              text='Travel through the Roads of Madagascar and explore it culture and people'
               label='Culture'
               path='/'
             />
             <CardItem
               src={'./images/lemus.jpeg'}
-              text='The Adventure is not over  until we see some Lemus'
+              text='The Adventure is not over until we see some Lemus'
               label='Wildlife'
               path='/'
             />
@@ -33,7 +33,7 @@ function Cards() {
             <CardItem
               src={'./images/seychells1.jpeg'}
               text='Enjoy in-house comforts with indoors heated swimming pool🏊🏼‍♀️🏊🏼‍♀️'
-              label='Relation'
+              label='Relaxation'
               path='/'
             />
             <CardItem
@@ -86,13 +86,13 @@ function Cards() {
             />
             <CardItem
               src={'./images/japan2.jpg'}
-              text='Visit the most beautiful places of japan🥰🥰🥰'
+              text='Visit the most beautiful places of Japan🥰🥰🥰'
               label='Adventure'
               path='/'
             />
             <CardItem
               src={'./images/japan3.jpg'}
-              text='Experience the nature and japans beautiful trees'
+              text='Experience the nature and Japans beautiful trees'
               label='Luxery'
               path='/'
             />            
